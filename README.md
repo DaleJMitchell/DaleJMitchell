@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Dale Mitchell, and I'm a technology aficionado with a talent for tinkering. With a coding background that includes C#, .NET, SQL, HTML/CSS, JavaScript, and Vue.js. I thrive on taking on complex projects and devising innovative solutions that tackle real-world problems. 
 
-Before I transitioned into tech as a profession, I was an HVAC/R Journeyman Technician. It's worth noting that my over 7 years of HVAC/R experience working on commercial systems has given me a unique perspective on problem-solving and critical thinking. In this field, every project comes with its own set of challenges and requires a deep understanding of complex systems. This experience has honed my ability to quickly diagnose problems, develop effective solutions, and implement them efficiently. These skills are transferable to the tech industry, where I continue to expand my knowledge and expertise. Overall, my diverse background has prepared me to tackle a wide range of projects with creativity, passion, and a commitment to excellence.
-
 Beyond the keyboard, you can find me indulging in a little hobby of mine: building computers from scratch, bringing together all the components, and witnessing a machine come to life. When I'm not plugged in, you'll often find me hitting the open road on my motorcycle, soaking up the wind in my face and the thrill of adventure. Whether I'm coding or cruising, I'm always hungry for fresh challenges and eager to push the boundaries of what's possible.
 
 
